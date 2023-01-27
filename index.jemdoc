@@ -11,25 +11,14 @@ Ottawa, Ontario, Canada, K1N 6N5\n
 Email: /zwang286/ \[AT\] uottawa \[DOT\] ca
 ~~~
 
-#at Baton Rouge, Louisiana, USA. (March 19, 2021)
-#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
-#== News
-#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
-#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
-#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
-#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
-#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
-#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
 
 == About me
 I am currently a Ph.D. candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, where I am very fortunate to have [https://www.site.uottawa.ca/~yymao/index_main.html Prof. Yongyi Mao] as my PhD advisor. In 2017-18, I was a Master of Applied Science (MASc) student at University of Ottawa. Prior to that, I received my B.E. degree in Electrical Engineering and its Automation from [https://english.ncepu.edu.cn/ North China Electric Power University (NCEPU)] in 2017.
 Previously, I was a research intern at [https://nrc.canada.ca/en National Research Council Canada (NRC)] in Summer 2019 (full-time) and Fall 2019 (part-time) where I was mentored by [https://uniweb.uottawa.ca/members/4499/profile?embed=2 Dr. Harry H.Y. Guo].\n
 
-#== Education 
-#- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-#- M.S. in Solid Mechanics, University of Science and Technology of China, Sep. 2013 - Jun. 2016
-#- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
+
 
 == Research Interests 
 My research interests span the areas of machine learning and statistical learning theory. A common thread in my research is in understanding the generalization theory of deep learning using information-theoretic tools. I am also interested in generalization under distribution mismatch, e.g., domain adaptation. 
@@ -40,7 +29,15 @@ My research interests span the areas of machine learning and statistical learnin
 - Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ''Over-Training with Mixup May Hurt Generalization'', International Conference on Learning Representations (ICLR) 2023 \[[https://openreview.net/pdf?id=JmkjrlVE-DG Paper]\].
 - *Ziqiao Wang* and Yongyi Mao, ''On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications'', International Conference on Learning Representations (ICLR) 2022 \[[https://openreview.net/pdf?id=oWZsQ8o5EA Paper]\].
 
-
+#== News
+#- \[01-20-2023\] Two papers accepted by ICLR 2023!
+#- \[01-09-2023\] I gave a talk at the machine learning seminar of Math Department, University of Ottawa.
+#- \[10-19-2022\] One paper accepted by First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022!
+#- \[10-08-2022\] I was awarded the Interdisciplinary Math and Artificial Intelligence (INTER-MATH-AI) fellowship!
+#- \[07-06-2023\] I gave a talk (in Chinese) at [https://liuyonggsai.github.io/ Prof. Yong Liu]'s Group, Gaoling School of Artificial Intelligence, Remin University of China
+#- \[06-29-2023\] I gave a talk (in Chinese) at [https://www.aitime.cn/ AI TIME] \[[https://www.koushare.com/video/videodetail/42595 Video]\].
+#- \[01-24-2022\] One paper accepted by ICLR 2022!
+#- \[12-03-2021\] I gave a talk at the ''AI4D: The Science'' seminar, National Research Council Canada.
 #== Visitors
 #~~~
 #{}{raw}
