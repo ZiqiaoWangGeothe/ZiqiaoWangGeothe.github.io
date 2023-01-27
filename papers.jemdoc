@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{papers.html}, nofooter
+== Publications \& Preprints
+
+\* denotes equal contribution.
+- *Ziqiao Wang* and Yongyi Mao, ''Tighter Information-Theoretic Generalization Bounds from Supersamples'', Submitted.
+- Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ''Over-Training with Mixup May Hurt Generalization'', International Conference on Learning Representations (ICLR) 2023 \[[https://openreview.net/pdf?id=JmkjrlVE-DG Paper]\].
+- *Ziqiao Wang* and Yongyi Mao, ''Information-Theoretic Analysis of Unsupervised Domain Adaptation'', International Conference on Learning Representations (ICLR) 2023 \[[https://openreview.net/pdf?id=c5tbxWXU9-y Paper]\].
+- *Ziqiao Wang* and Yongyi Mao, ''Two Facets of SDE Under an Information-Theoretic Lens: Generalization of SGD via Training Trajectories and via Terminal States'', Submitted \[[https://arxiv.org/abs/2211.10691 Arxiv]\].
+- Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ''Over-Training with Mixup May Hurt Generalization'', First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022 \[[https://openreview.net/pdf?id=dh462LeVbh Paper]\].
+- *Ziqiao Wang* and Yongyi Mao, ''On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications'', International Conference on Learning Representations (ICLR) 2022 \[[https://openreview.net/pdf?id=oWZsQ8o5EA Paper]\].
+- *Ziqiao Wang*, Yongyi Mao, Hongyu Guo, and Richong Zhang, ''On SkipGram Word Embedding Models with Negative Sampling: Unified Framework and Impact of Noise Distributions'', arXiv preprint arXiv:2009.04413, 2020 \[[https://arxiv.org/abs/2009.04413 Arxiv]\].
+
