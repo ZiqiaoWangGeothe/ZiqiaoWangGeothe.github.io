@@ -5,17 +5,16 @@
 {}{img_left}{photos/Image.jpeg}{alt text}{140}{160}{https://ziqiaowanggeothe.github.io/}
 Ph.D. Candidate,\n [https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science School of Electrical Engineering and Computer Science] \n
 [https://www.uottawa.ca/en University of Ottawa]\n
-800 King Edward Avenue \n
-Ottawa, Ontario, Canada, K1N 6N5\n
 \[[https://scholar.google.ca/citations?user=iBL7APIAAAAJ&hl=en&oi=sra Google Scholar]\]\[[https://twitter.com/Ziqiao__Wang Twitter]\]\[[https://www.linkedin.com/in/ziqiao-wang-987565155/?locale=en_US Linkedin]\] \n
-Email: /zwang286/ \[AT\] uottawa \[DOT\] ca
+Office: CBY A506\n
+Email: /zwang286/ \[AT\] /uottawa/ \[DOT\] /ca/
 ~~~
 
 
 
 
 == About me
-I am currently a Ph.D. candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, where I am very fortunate to have [https://www.site.uottawa.ca/~yymao/index_main.html Prof. Yongyi Mao] as my PhD advisor. In 2017-18, I was a Master of Applied Science (MASc) student at University of Ottawa. Prior to that, I received my B.E. degree in Electrical Engineering and its Automation from [https://english.ncepu.edu.cn/ North China Electric Power University (NCEPU)] in 2017.
+I am currently a Ph.D. candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, where I am very fortunate to have [https://www.site.uottawa.ca/~yymao/index_main.html Prof. Yongyi Mao] as my PhD advisor. In 2017-18, I was a Master of Applied Science (MASc) student at University of Ottawa. Prior to that, I received my B.E. degree in Electrical Engineering and its Automation from [https://english.ncepu.edu.cn/hdgk/130429.html North China Electric Power University (NCEPU)] in 2017.
 Previously, I was a research intern at [https://nrc.canada.ca/en National Research Council Canada (NRC)] in Summer 2019 (full-time) and Fall 2019 (part-time) where I was mentored by [https://uniweb.uottawa.ca/members/4499/profile?embed=2 Dr. Harry H.Y. Guo].\n
 
 
@@ -26,9 +25,9 @@ My research interests span the areas of machine learning and statistical learnin
 == Selected Publications
 
 For a complete list of my papers, please visit the [https://ziqiaowanggeothe.github.io/papers.html Papers] page.
-- *Ziqiao Wang* and Yongyi Mao, ''Information-Theoretic Analysis of Unsupervised Domain Adaptation'', ICLR 2023 \[[https://openreview.net/pdf?id=c5tbxWXU9-y Paper]\].
-- Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ''Over-Training with Mixup May Hurt Generalization'', ICLR 2023 \[[https://openreview.net/pdf?id=JmkjrlVE-DG Paper]\].
-- *Ziqiao Wang* and Yongyi Mao, ''On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications'', ICLR 2022 \[[https://openreview.net/pdf?id=oWZsQ8o5EA Paper]\].
+- *Ziqiao Wang* and Yongyi Mao, ``Information-Theoretic Analysis of Unsupervised Domain Adaptation'', ICLR 2023 \[[https://openreview.net/pdf?id=c5tbxWXU9-y Paper]\].
+- Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ``Over-Training with Mixup May Hurt Generalization'', ICLR 2023 \[[https://openreview.net/pdf?id=JmkjrlVE-DG Paper]\].
+- *Ziqiao Wang* and Yongyi Mao, ``On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications'', ICLR 2022 \[[https://openreview.net/pdf?id=oWZsQ8o5EA Paper]\].
 
 
 #== News
@@ -36,8 +35,8 @@ For a complete list of my papers, please visit the [https://ziqiaowanggeothe.git
 #- \[01-09-2023\] I gave a talk at the machine learning seminar of Math Department, University of Ottawa.
 #- \[10-19-2022\] One paper accepted by First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022!
 #- \[10-08-2022\] I was awarded the Interdisciplinary Math and Artificial Intelligence (INTER-MATH-AI) fellowship!
-#- \[07-06-2023\] I gave a talk (in Chinese) at [https://liuyonggsai.github.io/ Prof. Yong Liu]'s Group, Gaoling School of Artificial Intelligence, Remin University of China
-#- \[06-29-2023\] I gave a talk (in Chinese) at [https://www.aitime.cn/ AI TIME] \[[https://www.koushare.com/video/videodetail/42595 Video]\].
+#- \[07-06-2023\] I gave a talk (in Chinese) at [https://liuyonggsai.github.io/ Prof. Yong Liu]'s Group, Gaoling School of Artificial Intelligence, Remin University of China.
+#- \[06-29-2023\] I gave a talk (in Chinese) at [https://www.aitime.cn/ AI TIME], \[[https://www.koushare.com/video/videodetail/42595 Video]\].
 #- \[01-24-2022\] One paper accepted by ICLR 2022!
 #- \[12-03-2021\] I gave a talk at the ''AI4D: The Science'' seminar, National Research Council Canada.
 #== Visitors
