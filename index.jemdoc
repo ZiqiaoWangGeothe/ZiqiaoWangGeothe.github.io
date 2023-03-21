@@ -25,9 +25,21 @@ My research interests span the areas of machine learning and statistical learnin
 == Selected Publications
 
 For a complete list of my papers, please visit the [https://ziqiaowanggeothe.github.io/papers.html Papers] page.
-- *Ziqiao Wang* and Yongyi Mao, ``Information-Theoretic Analysis of Unsupervised Domain Adaptation'', ICLR 2023 \[[https://openreview.net/pdf?id=c5tbxWXU9-y Paper]\].
-- Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ``Over-Training with Mixup May Hurt Generalization'', ICLR 2023 \[[https://openreview.net/pdf?id=JmkjrlVE-DG Paper]\].
-- *Ziqiao Wang* and Yongyi Mao, ``On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications'', ICLR 2022 \[[https://openreview.net/pdf?id=oWZsQ8o5EA Paper]\].
+- [https://openreview.net/pdf?id=c5tbxWXU9-y Information-Theoretic Analysis of Unsupervised Domain Adaptation]\n
+*Ziqiao Wang* and Yongyi Mao\n
+ICLR 2023
+
+- [https://openreview.net/pdf?id=c5tbxWXU9-y Over-Training with Mixup May Hurt Generalization]\n
+Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao\n
+ICLR 2023
+
+- [https://openreview.net/pdf?id=oWZsQ8o5EA On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications]\n
+*Ziqiao Wang* and Yongyi Mao\n
+ICLR 2022
+
+#- *Ziqiao Wang* and Yongyi Mao, ``Information-Theoretic Analysis of Unsupervised Domain Adaptation'', ICLR 2023 \[[https://openreview.net/pdf?id=c5tbxWXU9-y Paper]\].
+#- Zixuan Liu\*, *Ziqiao Wang*\*, Hongyu Guo, and Yongyi Mao, ``Over-Training with Mixup May Hurt Generalization'', ICLR 2023 \[[https://openreview.net/pdf?id=JmkjrlVE-DG Paper]\].
+#- *Ziqiao Wang* and Yongyi Mao, ``On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications'', ICLR 2022 \[[https://openreview.net/pdf?id=oWZsQ8o5EA Paper]\].
 
 
 #== News
