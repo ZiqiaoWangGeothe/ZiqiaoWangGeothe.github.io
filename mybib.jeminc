@@ -158,13 +158,12 @@
 </p>
 <div id="bib_Wang2023" class="bibtex fixed" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
 <pre>
-@article{Wang2023,
-  author = {Ziqiao Wang and Yongyi Mao},
-  title = {Tighter Information-Theoretic Generalization Bounds from Supersamples},
-  journal = {CoRR},
-  year = {2023},
-  volume = {abs/2302.02432},
-  doi = {https://doi.org/10.48550/arXiv.2302.02432}
+@inproceedings{wang2023tighter,
+  title={Tighter Information-Theoretic Generalization Bounds from Supersamples},
+  author={Wang, Ziqiao and Mao, Yongyi},
+  booktitle={International Conference on Machine Learning},
+  year={2023},
+  organization={PMLR}
 }
 </pre></div>
 </div>
