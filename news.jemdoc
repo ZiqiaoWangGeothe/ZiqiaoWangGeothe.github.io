@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{news.html}, nofooter
 == News
 
-- \[07-12-2023\] /*{{<font color=red> Upcoming: </font>}}*/ Talk (in Chinese) at [http://act.buaa.edu.cn/zhangrc Prof. Richong Zhang]'s group, School of Computer Science and Engineering, Beihang University
+- \[07-12-2023\] Talk (in Chinese) at [http://act.buaa.edu.cn/zhangrc Prof. Richong Zhang]'s group, School of Computer Science and Engineering, Beihang University \[[slides/BeihangSupersamples.pdf Slides]\].
 - \[05-01-2023\] Our [https://arxiv.org/pdf/2302.02432.pdf work] was accepted by the [https://isit2023.org/program/recent-results Recent Results Poster Session] of ISIT 2023.
 - \[04-24-2023\] One [https://arxiv.org/pdf/2302.02432.pdf Paper] accepted by ICML 2023 as an oral presentation.
 - \[04-14-2023\] Talk at the ``AI4D: The Science'' seminar, National Research Council Canada \[[slides/NRCAI4DMixUp.pdf Slides]\].
@@ -20,3 +20,6 @@
 - \[11-27-2019\] Talk at the [http://www.tamale.uottawa.ca/fall2019/301019.html TAMALE] seminar, University of Ottawa \[[slides/OSGWEMNS.pdf Slides]\].
 - \[10-18-2019\] I attended the [https://www.ias.edu/math/wtdl Workshop on Theory of Deep Learning: Where next?] at [https://www.ias.edu/ Institute for  Advanced Study (IAS)], Princeton.
 - \[05-06-2019\] I started an intership at [https://nrc.canada.ca/en National Research Council Canada (NRC)].
+
+
+# /*{{<font color=red> Upcoming: </font>}}*/
