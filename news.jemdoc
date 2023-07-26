@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{news.html}, nofooter
 == News
 
-- \[07-12-2023\] Talk (in Chinese) at [http://act.buaa.edu.cn/zhangrc Prof. Richong Zhang]'s group, School of Computer Science and Engineering, Beihang University \[[slides/BeihangSupersamples.pdf Slides]\].
+- \[07-25-2023\] Talk at The Fortieth International Conference on Machine Learning, Honolulu, Hawaii \[[slides/ICML2023oral.pdf Slides]\].
+- \[07-12-2023\] Talk (in Chinese) at [http://act.buaa.edu.cn/zhangrc Prof. Richong Zhang]'s research group, School of Computer Science and Engineering, Beihang University \[[slides/BeihangSupersamples.pdf Slides]\].
 - \[05-01-2023\] Our [https://arxiv.org/pdf/2302.02432.pdf work] was accepted by the [https://isit2023.org/program/recent-results Recent Results Poster Session] of ISIT 2023.
 - \[04-24-2023\] One [https://arxiv.org/pdf/2302.02432.pdf Paper] accepted by ICML 2023 as an oral presentation.
 - \[04-14-2023\] Talk at the ``AI4D: The Science'' seminar, National Research Council Canada \[[slides/NRCAI4DMixUp.pdf Slides]\].
@@ -9,7 +10,7 @@
 - \[01-09-2023\] Invited talk at the Machine Learning Seminar of the Math Department, University of Ottawa \[[slides/UDAITbound.pdf Slides]\].
 - \[10-19-2022\] One [https://openreview.net/pdf?id=dh462LeVbh Paper] accepted by the First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022.
 - \[10-08-2022\] I was awarded the Interdisciplinary Math and Artificial Intelligence (INTER-MATH-AI) fellowship.
-- \[07-06-2022\] Invited talk (in Chinese) at [https://liuyonggsai.github.io/ Prof. Yong Liu]'s group, Gaoling School of Artificial Intelligence, Remin University of China \[[slides/SGDITbound.pdf Slides]\].
+- \[07-06-2022\] Invited talk (in Chinese) at [https://liuyonggsai.github.io/ Prof. Yong Liu]'s research group, Gaoling School of Artificial Intelligence, Remin University of China \[[slides/SGDITbound.pdf Slides]\].
 - \[06-29-2022\] Invited talk (in Chinese) at [https://www.aitime.cn/ AI TIME] \[[https://www.koushare.com/video/videodetail/42595 Video]\] \[[slides/SGDITbound.pdf Slides]\].
 - \[06-08-2022\] I was a volunteer at the [http://cwit.ca/2022/index.html 17th Canadian Workshop on Information Theory (CWIT)].
 - \[01-24-2022\] One [https://openreview.net/pdf?id=oWZsQ8o5EA Paper] accepted by ICLR 2022.
