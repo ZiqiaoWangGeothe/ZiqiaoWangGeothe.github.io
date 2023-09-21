@@ -26,6 +26,11 @@ My research interests span the areas of machine learning and statistical learnin
 
 For a complete list of my papers, please visit the [/https://ziqiaowanggeothe.github.io/papers.html \Papers] page.
 
+- Sample-Conditioned Hypothesis Stability Sharpens Information-Theoretic Generalization Bounds
+\n
+*Ziqiao Wang* and Yongyi Mao\n
+NeurIPS 2023
+
 - [https://arxiv.org/pdf/2302.02432.pdf Tighter Information-Theoretic Generalization Bounds from Supersamples]\n
 *Ziqiao Wang* and Yongyi Mao\n
 ICML 2023 *{{<font color=red> (Oral) </font>}}*
