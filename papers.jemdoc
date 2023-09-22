@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{papers.html}, nofooter
 # jemdoc: addcss{bibover.css}
-#include{mybib.jeminc}
-
+# include{mybib.jeminc}
 == Publications \& Preprints
 
 \* denotes equal contribution.
