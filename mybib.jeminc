@@ -1,3 +1,33 @@
+#item: Wang2023b
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_Wang2023b" onmousedown="javascript:lockMouse(event,'Wang2023b')" onmouseup="javascript:unLockMouse(event,'Wang2023b')">
+<div class="cross"><a href="javascript:closeCite('Wang2023b')">X</a></div>
+<p>
+~~~
+
+#/Sample-Conditioned Hypothesis Stability Sharpens Information-Theoretic Generalization Bounds/\n
+#Wang, Z. and Mao, Y.\n
+#NeurIPS2023\n
+#[javascript:toggleBibtex('Wang2023b') \[BibTeX\]] [https://openreview.net/forum?id=oqDSDKLd3S \[DOI\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_Wang2023b" class="bibtex fixed" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{
+Wang2023sampleconditioned,
+title={Sample-Conditioned Hypothesis Stability Sharpens Information-Theoretic Generalization Bounds},
+author={Ziqiao Wang and Yongyi Mao},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=oqDSDKLd3S}
+}
+</pre></div>
+</div>
+~~~
+
+
 #item: Wang2022
 ~~~
 {}{raw}
@@ -5,7 +35,6 @@
 <div class="cross"><a href="javascript:closeCite('Wang2022')">X</a></div>
 <p>
 ~~~
-
 
 #/On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications/\n
 #Wang, Z. and Mao, Y.\n

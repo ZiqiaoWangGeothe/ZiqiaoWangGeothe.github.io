@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{papers.html}, nofooter
 # jemdoc: addcss{bibover.css}
-# include{mybib.jeminc}
 == Publications \& Preprints
+#include{mybib.jeminc}
 
 \* denotes equal contribution.
 
@@ -15,7 +15,7 @@ Under Review.
 
 - Sample-Conditioned Hypothesis Stability Sharpens Information-Theoretic Generalization Bounds \n
 *Ziqiao Wang* and Yongyi Mao\n
-Advances in Neural Information Processing Systems (NeurIPS) 2023.
+Accepted to Advances in Neural Information Processing Systems (NeurIPS) 2023 \[[/javascript:cite('Wang2023b') \BibTeX]\].
 
 
 - [https://arxiv.org/pdf/2302.02432.pdf Tighter Information-Theoretic Generalization Bounds from Supersamples]\n
