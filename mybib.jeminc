@@ -86,6 +86,37 @@ url={https://openreview.net/forum?id=oqDSDKLd3S}
 </pre></div>
 </div>
 ~~~
+
+#item: Wang2023two
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_Wang2023two" onmousedown="javascript:lockMouse(event,'Wang2023two')" onmouseup="javascript:unLockMouse(event,'Wang2023two')">
+<div class="cross"><a href="javascript:closeCite('Wang2023two')">X</a></div>
+<p>
+~~~
+
+#/Two Facets of SDE Under an Information-Theoretic Lens: Generalization of SGD via Training Trajectories and via Terminal States/\n
+#Wang, Z. and Mao, Y.\n
+#NeurIPS 2023 on M3L\n
+#[javascript:toggleBibtex('Wang2023two') \[BibTeX\]] [https://doi.org/10.48550/arXiv.2211.10691 \[DOI\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_Wang2023two" class="bibtex fixed" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{
+	wang2023two,
+	title={Two Facets of {SDE} Under an Information-Theoretic Lens: Generalization of {SGD} via Training Trajectories and via Terminal States},
+	author={Ziqiao Wang and Yongyi Mao},
+	booktitle={NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning},
+	year={2023},
+	url={https://openreview.net/forum?id=hWDqKtIwSo}
+}
+</pre></div>
+</div>
+~~~
+
+
 #item: Liu2023
 ~~~
 {}{raw}
