@@ -34,7 +34,7 @@ Short version presented at NeurIPS 2022 Workshop on Interpolation Regularizers a
 - [https://arxiv.org/pdf/2211.10691.pdf Two Facets of SDE Under an Information-Theoretic Lens: Generalization of SGD via Training Trajectories and via Terminal States]\n
 *Ziqiao Wang* and Yongyi Mao\n
 Submitted, \[[https://arxiv.org/abs/2211.10691 Arxiv]\]\[[/javascript:cite('Wang2022a') \BibTeX]\].\n
-Short version presented at NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (M3L), \[[https://openreview.net/pdf?id=hWDqKtIwSo Paper]\]\[[/javascript:cite('Wang2023two') \BibTeX]\].\n
+Short version presented at NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (M3L), \[[https://openreview.net/pdf?id=hWDqKtIwSo Paper]\] \[[posters/NeurIPS2023M3LPoster.pdf Poster]\] \[[/javascript:cite('Wang2023two') \BibTeX]\].\n
 
 - [https://openreview.net/pdf?id=oWZsQ8o5EA On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications]\n
 *Ziqiao Wang* and Yongyi Mao\n
