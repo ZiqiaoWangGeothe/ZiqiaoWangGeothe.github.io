@@ -7,15 +7,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <title>Ziqiao Wang (汪子乔)</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>My Website</title>
 <!-- MathJax -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
 </script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
-	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+    TeX: { equationNumbers: { autoNumber: "AMS" } }
 });
 </script>
 <!-- End MathJax -->
+<script type="text/javascript" src="bibover.js">
+</script>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -87,7 +97,7 @@ NeurIPS 2024
 </li>
 </ul>
 <ul>
-<li><p><a href="https://openreview.net/pdf?id=xSU27DgWEr" target=&ldquo;blank&rdquo;>On f-Divergence Principled Domain Adaptation: An Improved Framework</a><br />
+<li><p><a href="https://openreview.net/pdf?id=xSU27DgWEr" target=&ldquo;blank&rdquo;>On \(f\)-Divergence Principled Domain Adaptation: An Improved Framework</a><br />
 <b>Ziqiao Wang</b> and Yongyi Mao<br />
 NeurIPS 2024
 </p>
@@ -152,5 +162,22 @@ ICLR 2022
 </td>
 </tr>
 </table>
+<script type="text/javascript">
+<!--
+//Get array of all anchors in the layout-content table cell
+var td = document.getElementById('layout-content');
+var anchs = td.getElementsByTagName('a');
+//Setup the regex pattern for finding cites
+var patt1 = /javascript:cite\(\'.*\'\)/;
+//Loop through all anchors
+for (var i = 0; i < anchs.length; i++) {
+    var a = anchs[i];
+    //If the anchor contains a cite add event listeners
+    if (a.href.search(patt1) != -1) {
+        a.addEventListener('click', bibshow, false);
+    }
+}
+-->
+</script>
 </body>
 </html>
