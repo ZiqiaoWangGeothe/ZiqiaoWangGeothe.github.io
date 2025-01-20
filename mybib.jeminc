@@ -1,4 +1,27 @@
 
+#item: kong2025
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_kong2025" onmousedown="javascript:lockMouse(event,'kong2025')" onmouseup="javascript:unLockMouse(event,'kong2025')">
+<div class="cross"><a href="javascript:closeCite('kong2025')">X</a></div>
+<p>
+~~~
+
+~~~
+{}{raw}
+</p>
+<div id="bib_kong2025" class="bibtex fixed" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{kong2025PL,
+  title={Preserving Label Correlation for Multi-label Text Classification by Prototypical Regularizations},
+  author={Kong, Fanshuang and Zhang, Richong and Guo, Xiaohui and Chen, Junfan and Wang, Ziqiao},
+  booktitle={Proceedings of the ACM on Web Conference},
+  year={2025}
+}
+</pre></div>
+</div>
+~~~
+
 #item: kong2024
 ~~~
 {}{raw}
