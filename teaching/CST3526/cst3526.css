@@ -1,0 +1,37 @@
+/* CST 3526: standalone, centered jemdoc stylesheet.
+   Extracted from the existing cst3526_preview.html.
+   Load using: # jemdoc: nofooter, nodefaultcss, addcss{cst3526.css}
+   This does not modify your shared jemdoc.css or other pages.
+   The 1120px maximum is the TEXT width; 32px padding is added on each side.
+   Works with both div#layout-content and main#layout-content (no menu).
+*/
+
+html { background: #fff; }
+body { margin: 0; padding: 0; color: #222; background: #fff;
+       font: 16px/1.45 Georgia, "Times New Roman", "Noto Serif CJK SC", serif; }
+#layout-content {
+  display: block;
+  box-sizing: content-box;
+  width: auto;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 22px 32px 48px;
+  text-align: left;
+}
+#toptitle { padding-bottom: .35em; margin-bottom: 1.25em; border-bottom: 3px double #aaa; }
+h1, h2 { color: #527bbd; line-height: 1.15; }
+h1 { font-size: 1.65em; padding-top: .25em; margin: 0 0 .4em; }
+h2 { font-size: 1.25em; padding-top: .5em; padding-bottom: .2em;
+     margin: 1.05em 0 .6em; border-bottom: 1px solid #aaa; }
+#subtitle { margin: .1em 0 .4em; }
+p { margin: 0 0 .8em; }
+a { color: #224b8d; text-decoration: none; }
+a:hover { border-bottom: 1px dotted #224b8d; }
+ul { list-style-type: square; margin: .2em 0 .85em; padding-left: 1.65em; }
+li { padding-left: .05em; }
+li p { margin-bottom: .42em; }
+@media(max-width: 650px) { #layout-content { padding: 16px 18px 32px; }
+  body { font-size: 15px; } h1 { font-size: 1.5em; }
+  li, p { overflow-wrap: anywhere; } }
+@media print { #layout-content { max-width: none; padding: 0; }
+  h2 { break-after: avoid; } li { break-inside: avoid; } }
